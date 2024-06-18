@@ -1,0 +1,27 @@
+body {
+    background-image: url('images/superhero.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+header {
+    text-align: center;
+    background-color: #639b5ecc;
+    padding: 20px;
+    color: white;
+}
+img {
+    border-radius: 5px;
+}
+.card {
+    background-color: rgba(255, 255, 255, 0.842);
+}
+.row {
+    margin-bottom: 2em;
+    margin-top: 2em;
+    margin-left: 2em;
+    margin-right: 2em;
+}
+.big {
+    justify-content: center;
+    text-align: center;
+}
